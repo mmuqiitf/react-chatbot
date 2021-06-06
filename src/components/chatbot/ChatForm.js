@@ -82,8 +82,7 @@ class Question2 extends Component {
   render() {
     return (
       <div>
-        The ingredients are oreo vanilla, grated cheese, dancow milk, powdered
-        sugar, water and cornstarch.
+        The ingredients are oreo, cheese, milk, sugar, water and cornstarch.
       </div>
     );
   }
